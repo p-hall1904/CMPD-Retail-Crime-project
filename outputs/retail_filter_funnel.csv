@@ -1,0 +1,7 @@
+step,rows,dropped,pct_of_all
+0. All incidents (deduplicated),556240,0,100.0
+1. Place type = Retail,84139,-472101,15.1
+2. Drop non-store venues,83530,-609,15.0
+3. Drop non-crime NIBRS codes,77520,-6010,13.9
+4. Drop unfounded cases,76017,-1503,13.7
+5. Drop records with no patrol division,75982,-35,13.7
